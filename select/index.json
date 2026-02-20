@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "借金大王",
+  "base_artist": "Ulfuls",
+  "createdAt": "2026-02-20T12:56:29.109679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/01_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "借金大王",
+      "artist": "Ulfuls",
+      "has_synced": false,
+      "path": "select/02_借金大王_Ulfuls.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_01_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_02_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_03_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_04_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "借金大王",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_05_借金大王_ウルフルズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "借金大王 V",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_06_借金大王_V_ウルフルズ.txt"
+    }
+  ]
+}
